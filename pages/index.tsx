@@ -28,26 +28,35 @@ export default function Home() {
                     <h1 className={"text-white text-sm font-bold font-primary"}>@suzannasilva25</h1>
 
                 </aside>
-                <button
-                    className="mx-8 lg:mx-40 col-span-12 bg-gray-200 shadow font-primary text-pink-900 hover:shadow-lg text-white text-sm font-medium py-3 px-4 rounded">
-                    Ebook Gratis - 5 formas garantidas para ganhar dinheiro online
-                </button>
                 <a
-                    href={"https://api.whatsapp.com/send?phone=5583998936754&text=Ola%20Suzy%2C%20venho%20do%20o%20instagram%20do%20...%20*M%C3%A9todo%20Mulher%20Milionaria*."}
+                    href={"https://edzz.la/S85IC?a=78113334"}
+                    target={"_blank"}
+                    className="mx-8 lg:mx-40 col-span-12 text-center bg-gray-200 shadow font-primary text-pink-900 hover:shadow-lg text-white text-sm font-medium py-3 px-4 rounded">
+                    Ebook Gratis - 5 formas garantidas para ganhar dinheiro online
+                </a>
+                <a
+                    href={"https://api.whatsapp.com/send?phone=5583998936754&text=Oii%20Suzy%2C%20me%20ajuda%20a%20entender%20o%20*Mkt%20Digital*%3F"}
                     target={"_blank"}
                     className="mx-8 lg:mx-40 col-span-12 flex items-center justify-center bg-green-700 shadow hover:shadow-lg py-3 px-4 rounded" rel="noreferrer">
                     <FaWhatsapp className={"text-white  text-2xl"}/>
                     <span className={"font-primary text-white text-sm font-medium text-gray-100 ml-2"}>Dúvidas? Me chama no Whats</span>
                 </a>
                 <a
-                    href={"https://api.whatsapp.com/send?phone=5583998936754&text=Ola%20Suzy%2C%20me%20manda%20o%20link%20do%20treinamento%20*M%C3%A9todo%20Mulher%20Milionaria*."}
+                    href={"https://api.whatsapp.com/send?phone=5583998936754&text=Oii%20Suzy%2C%20me%20explica%20sobre%20esse%20o%20*M%C3%A9todo%20Mulher%20Milionaria*%3F"}
                     target={"_blank"}
                     className="zoom-in-zoom-out mx-8 lg:mx-40 col-span-12 flex items-center justify-center bg-pink-800 shadow hover:shadow-lg py-3 px-4 rounded" rel="noreferrer">
                     <FaRocket className={"text-white text-2xl"}/>
-                    <span className={"font-primary text-white text-sm font-medium text-gray-100 ml-2"}>Treinamento Completo - Método Mulher Milionaria</span>
-
+                    <span className={"font-primary text-white text-sm text-center font-medium text-gray-100 ml-2"}>Treinamento Completo - Método Mulher Milionaria</span>
                 </a>
-
+                <footer className={"col-span-12 mt-10 font-primary flex flex-col items-center justify-center"}>
+                    <b className={"text-sm"}>Construido por</b>
+                    <a
+                        href={"https://www.instagram.com/mateusxsuzana.py/"}
+                        target={"_blank"}
+                        className={"text-sm"}>
+                        @mateusxsuzana.py
+                    </a>
+                </footer>
             </main>
         </div>
     )
