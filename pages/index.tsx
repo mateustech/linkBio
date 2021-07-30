@@ -31,7 +31,7 @@ export default function Home() {
                 <a
                     href={"https://edzz.la/S85IC?a=78113334"}
                     target={"_blank"}
-                    className="mx-8 lg:mx-40 col-span-12 text-center bg-gray-200 shadow font-primary text-pink-900 hover:shadow-lg text-white text-sm font-medium py-3 px-4 rounded">
+                    className="mx-8 lg:mx-40 col-span-12 text-center bg-gray-200 shadow font-primary text-pink-900 hover:shadow-lg text-white text-sm font-medium py-3 px-4 rounded" rel="noreferrer">
                     Ebook Gratis - 5 formas garantidas para ganhar dinheiro online
                 </a>
                 <a
@@ -53,7 +53,7 @@ export default function Home() {
                     <a
                         href={"https://www.instagram.com/mateusxsuzana.py/"}
                         target={"_blank"}
-                        className={"text-sm"}>
+                        className={"text-sm"} rel="noreferrer">
                         @mateusxsuzana.py
                     </a>
                 </footer>
